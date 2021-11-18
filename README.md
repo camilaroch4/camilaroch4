@@ -1,9 +1,6 @@
 ## Hello! I'm Camila Rocha.
 - ⚙  I study Electrical Engineering - Robotics and Industrial Automation
 - 📘 I'm a member of IEEE and chair of WIE UFJF
-- 🔭 I’m currently working on SEO at Grupo Voitto
-- 🌱 I’m currently learning python 
-- 👯 I’m looking to collaborate on everybody
 - 😄 Pronouns: she/her
 
 ##
